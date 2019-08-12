@@ -1,0 +1,42 @@
+.header_container
+{
+	width: 100%;
+	background-color: sandybrown;
+	background-image: url(images/headerBackground.jpg);
+}
+
+
+.header{
+	width: 1000px;
+	height: 200px;
+	
+	margin: auto;
+	alignment-adjust: central;
+}
+
+
+.main{
+	width: 1000px;
+	min-height: 400px;
+	
+	background-color: saddlebrown;
+	margin: auto;
+	alignment-adjust: central;
+}
+
+.footer_container
+{
+	width: 100%;
+	background-color:sandybrown;
+	margin: auto;
+}
+.footer
+{
+	position: static;
+	width:960px;
+	min-height:100px;
+	alignment-adjust:central;
+	margin: auto;
+	padding-top: 15px;
+	background-color: sandybrown;
+}
